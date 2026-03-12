@@ -11,13 +11,15 @@ import AdminDashboard from './AdminDashboard';
 import AlertBanner from './AlertBanner';
 import AlertsPage from './AlertsPage';
 import WormsPage from './WormsPage';
+import VetDoctorsDirectory from './VetDoctorsDirectory';
+import VetOfficesDirectory from './VetOfficesDirectory';
 import { 
   Home, BookOpen, Calendar, Warehouse, MapPin, 
   Lightbulb, Settings, Stethoscope, Menu, X, 
   Activity, Wifi, WifiOff, ChevronRight, Shield, AlertTriangle, Bell, Bug
 } from 'lucide-react';
 
-type Page = 'home' | 'diseases' | 'worms' | 'calendar' | 'livestock' | 'vetshops' | 'tips' | 'symptom' | 'settings' | 'admin' | 'alerts';
+type Page = 'home' | 'diseases' | 'worms' | 'calendar' | 'livestock' | 'vetshops' | 'vetdoctors' | 'vetoffices' | 'tips' | 'symptom' | 'settings' | 'admin' | 'alerts';
 
 const pageLabels: Record<Page, string> = {
   home: 'Dashboard',
@@ -26,6 +28,8 @@ const pageLabels: Record<Page, string> = {
   calendar: 'Management Calendar',
   livestock: 'My Livestock',
   vetshops: 'Vet Shop Locator',
+  vetdoctors: 'Vet Doctors',
+  vetoffices: 'Vet Offices',
   tips: 'Business Tips',
   symptom: 'Symptom Checker',
   settings: 'Settings',
@@ -67,6 +71,7 @@ const AppLayout: React.FC = () => {
     { id: 'diseases', label: 'Diseases', icon: <BookOpen className="w-5 h-5" /> },
     { id: 'livestock', label: 'Livestock', icon: <Warehouse className="w-5 h-5" /> },
     { id: 'vetshops', label: 'Vet Shops', icon: <MapPin className="w-5 h-5" /> },
+    { id: 'vetdoctors', label: 'Vets', icon: <Stethoscope className="w-5 h-5" /> },
   ];
 
   const sidebarItems: { id: Page; label: string; icon: React.ReactNode; color: string }[] = [
@@ -77,6 +82,8 @@ const AppLayout: React.FC = () => {
     { id: 'calendar', label: 'Management Calendar', icon: <Calendar className="w-5 h-5" />, color: 'text-blue-600' },
     { id: 'livestock', label: 'My Livestock', icon: <Warehouse className="w-5 h-5" />, color: 'text-amber-600' },
     { id: 'vetshops', label: 'Vet Shop Locator', icon: <MapPin className="w-5 h-5" />, color: 'text-teal-600' },
+    { id: 'vetdoctors', label: 'Vet Doctors', icon: <Stethoscope className="w-5 h-5" />, color: 'text-violet-600' },
+    { id: 'vetoffices', label: 'Vet Offices', icon: <Shield className="w-5 h-5" />, color: 'text-blue-600' },
     { id: 'tips', label: 'Business Tips', icon: <Lightbulb className="w-5 h-5" />, color: 'text-indigo-600' },
     { id: 'symptom', label: 'Symptom Checker', icon: <Stethoscope className="w-5 h-5" />, color: 'text-violet-600' },
     { id: 'settings', label: 'Settings', icon: <Settings className="w-5 h-5" />, color: 'text-gray-600' },
@@ -98,6 +105,10 @@ const AppLayout: React.FC = () => {
         return <LivestockInventory />;
       case 'vetshops':
         return <VetShopLocator />;
+      case 'vetdoctors':
+        return <VetDoctorsDirectory />;
+      case 'vetoffices':
+        return <VetOfficesDirectory />;
       case 'tips':
         return <BusinessTipsView />;
       case 'symptom':

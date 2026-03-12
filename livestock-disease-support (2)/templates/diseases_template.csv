@@ -1,0 +1,2 @@
+species,name,local_name,pathogen_type,description,symptoms,transmission,risk_factors,diagnosis_notes,treatment,prevention,vaccination_notes,when_to_call_vet,emergency_warning_signs,farmer_summary,source_reference,status
+Cattle,Example disease,Local name,Bacterial,Describe disease,"fever;diarrhea",tick bite,"crowding;poor sanitation",Field diagnosis notes,Treatment summary,Prevention summary,Vaccine details,Call if no feeding or downer animal,"collapse;bleeding",Short farmer summary,Pamphlet ref,draft

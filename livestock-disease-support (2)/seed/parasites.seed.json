@@ -1,0 +1,292 @@
+[
+  {
+    "id": "parasite-1",
+    "name": "Roundworm",
+    "parasite_type": "internal",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  },
+  {
+    "id": "parasite-2",
+    "name": "Tapeworm",
+    "parasite_type": "internal",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  },
+  {
+    "id": "parasite-3",
+    "name": "Liver fluke",
+    "parasite_type": "internal",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  },
+  {
+    "id": "parasite-4",
+    "name": "Coccidia",
+    "parasite_type": "internal",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  },
+  {
+    "id": "parasite-5",
+    "name": "Mange mite",
+    "parasite_type": "external",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  },
+  {
+    "id": "parasite-6",
+    "name": "Ticks",
+    "parasite_type": "external",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  },
+  {
+    "id": "parasite-7",
+    "name": "Lice",
+    "parasite_type": "external",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  },
+  {
+    "id": "parasite-8",
+    "name": "Fleas",
+    "parasite_type": "external",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  },
+  {
+    "id": "parasite-9",
+    "name": "Blowfly strike",
+    "parasite_type": "external",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  },
+  {
+    "id": "parasite-10",
+    "name": "Gapeworm",
+    "parasite_type": "internal",
+    "species_affected": [
+      "Cattle",
+      "Goats",
+      "Sheep",
+      "Chicken",
+      "Dogs",
+      "Donkeys",
+      "Rabbits",
+      "Guinea fowl"
+    ],
+    "severity": "medium",
+    "preventable": true,
+    "description": "Template record; verify before production",
+    "symptoms": [
+      "poor condition",
+      "irritation"
+    ],
+    "transmission": "environment/contact",
+    "treatment": "species-specific dewormer or acaricide",
+    "prevention": "routine control plan",
+    "control_recommendations": "follow seasonal schedule",
+    "drug_notes": "observe withdrawal periods",
+    "practical_advice": "rotate grazing and keep housing clean",
+    "verified": false
+  }
+]

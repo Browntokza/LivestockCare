@@ -1,0 +1,2 @@
+name,suburb,address,phone,whatsapp,latitude,longitude,services,products,opening_hours,verified,notes
+Example Vet Shop,Bulawayo CBD,123 Main St,+263..., +263...,-20.15,28.58,"consultation;medicine","vaccines;dewormers",Mon-Fri 08:00-17:00,false,verify before production

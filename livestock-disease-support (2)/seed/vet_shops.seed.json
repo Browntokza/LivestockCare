@@ -1,0 +1,302 @@
+[
+  {
+    "id": "shop-1",
+    "name": "Bulawayo Vet Shop 1",
+    "suburb": "Nkulumane",
+    "address": "verify before production",
+    "phone": "+263 77 300 1001",
+    "whatsapp": "+263 77 300 1001",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-2",
+    "name": "Bulawayo Vet Shop 2",
+    "suburb": "Luveve",
+    "address": "verify before production",
+    "phone": "+263 77 300 1002",
+    "whatsapp": "+263 77 300 1002",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-3",
+    "name": "Bulawayo Vet Shop 3",
+    "suburb": "Khumalo",
+    "address": "verify before production",
+    "phone": "+263 77 300 1003",
+    "whatsapp": "+263 77 300 1003",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-4",
+    "name": "Bulawayo Vet Shop 4",
+    "suburb": "Belmont",
+    "address": "verify before production",
+    "phone": "+263 77 300 1004",
+    "whatsapp": "+263 77 300 1004",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-5",
+    "name": "Bulawayo Vet Shop 5",
+    "suburb": "CBD",
+    "address": "verify before production",
+    "phone": "+263 77 300 1005",
+    "whatsapp": "+263 77 300 1005",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-6",
+    "name": "Bulawayo Vet Shop 6",
+    "suburb": "Nkulumane",
+    "address": "verify before production",
+    "phone": "+263 77 300 1006",
+    "whatsapp": "+263 77 300 1006",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-7",
+    "name": "Bulawayo Vet Shop 7",
+    "suburb": "Luveve",
+    "address": "verify before production",
+    "phone": "+263 77 300 1007",
+    "whatsapp": "+263 77 300 1007",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-8",
+    "name": "Bulawayo Vet Shop 8",
+    "suburb": "Khumalo",
+    "address": "verify before production",
+    "phone": "+263 77 300 1008",
+    "whatsapp": "+263 77 300 1008",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-9",
+    "name": "Bulawayo Vet Shop 9",
+    "suburb": "Belmont",
+    "address": "verify before production",
+    "phone": "+263 77 300 1009",
+    "whatsapp": "+263 77 300 1009",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-10",
+    "name": "Bulawayo Vet Shop 10",
+    "suburb": "CBD",
+    "address": "verify before production",
+    "phone": "+263 77 300 1010",
+    "whatsapp": "+263 77 300 1010",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-11",
+    "name": "Bulawayo Vet Shop 11",
+    "suburb": "Nkulumane",
+    "address": "verify before production",
+    "phone": "+263 77 300 1011",
+    "whatsapp": "+263 77 300 1011",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-12",
+    "name": "Bulawayo Vet Shop 12",
+    "suburb": "Luveve",
+    "address": "verify before production",
+    "phone": "+263 77 300 1012",
+    "whatsapp": "+263 77 300 1012",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-13",
+    "name": "Bulawayo Vet Shop 13",
+    "suburb": "Khumalo",
+    "address": "verify before production",
+    "phone": "+263 77 300 1013",
+    "whatsapp": "+263 77 300 1013",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-14",
+    "name": "Bulawayo Vet Shop 14",
+    "suburb": "Belmont",
+    "address": "verify before production",
+    "phone": "+263 77 300 1014",
+    "whatsapp": "+263 77 300 1014",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "shop-15",
+    "name": "Bulawayo Vet Shop 15",
+    "suburb": "CBD",
+    "address": "verify before production",
+    "phone": "+263 77 300 1015",
+    "whatsapp": "+263 77 300 1015",
+    "services": [
+      "consultation",
+      "medicine"
+    ],
+    "products": [
+      "vaccines",
+      "dewormers",
+      "antibiotics"
+    ],
+    "opening_hours": "Mon-Fri 08:00-17:00",
+    "verified": false,
+    "notes": "verify before production"
+  }
+]

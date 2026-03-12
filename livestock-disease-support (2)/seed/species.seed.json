@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cattle",
+    "slug": "cattle",
+    "verified": true
+  },
+  {
+    "name": "Goats",
+    "slug": "goats",
+    "verified": true
+  },
+  {
+    "name": "Sheep",
+    "slug": "sheep",
+    "verified": true
+  },
+  {
+    "name": "Chicken",
+    "slug": "chicken",
+    "verified": true
+  },
+  {
+    "name": "Dogs",
+    "slug": "dogs",
+    "verified": true
+  },
+  {
+    "name": "Donkeys",
+    "slug": "donkeys",
+    "verified": true
+  },
+  {
+    "name": "Rabbits",
+    "slug": "rabbits",
+    "verified": true
+  },
+  {
+    "name": "Guinea fowl",
+    "slug": "guinea-fowl",
+    "verified": true
+  }
+]

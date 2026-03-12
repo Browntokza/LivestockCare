@@ -1,0 +1,2 @@
+name,office_type,province,district,address,phone,email,opening_hours,officer_in_charge,latitude,longitude,notes,verified
+Example Office,Government,Bulawayo,Bulawayo,Address,+263...,office@gov.zw,Mon-Fri 08:00-16:30,Officer Name,-20.15,28.58,verify before production,false

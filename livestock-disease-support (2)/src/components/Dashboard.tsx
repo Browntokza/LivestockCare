@@ -74,6 +74,8 @@ const Dashboard: React.FC<DashboardProps> = ({ onNavigate, livestockCount, isOnl
     { id: 'calendar', label: 'Calendar', desc: 'Monthly management planner', icon: <Calendar className="w-6 h-6" />, color: 'from-blue-500 to-blue-600', count: `${monthData.activities.length} tasks` },
     { id: 'livestock', label: 'My Livestock', desc: 'Manage your herd inventory', icon: <Warehouse className="w-6 h-6" />, color: 'from-amber-500 to-amber-600', count: `${livestockCount} animals` },
     { id: 'vetshops', label: 'Vet Shops', desc: 'Find nearby veterinary shops', icon: <MapPin className="w-6 h-6" />, color: 'from-teal-500 to-teal-600', count: `${vetShops.length} nearby` },
+    { id: 'vetdoctors', label: 'Vet Doctors', desc: 'Emergency and specialist contacts', icon: <Stethoscope className="w-6 h-6" />, color: 'from-violet-500 to-fuchsia-600', count: '10 contacts' },
+    { id: 'vetoffices', label: 'Vet Offices', desc: 'Government office directory', icon: <Shield className="w-6 h-6" />, color: 'from-blue-500 to-indigo-600', count: '10 offices' },
     { id: 'symptom', label: 'Symptom Checker', desc: 'AI-powered disease diagnosis', icon: <Stethoscope className="w-6 h-6" />, color: 'from-violet-500 to-violet-600', count: 'AI Diagnosis' },
   ];
 
@@ -159,7 +161,7 @@ const Dashboard: React.FC<DashboardProps> = ({ onNavigate, livestockCount, isOnl
       <div className="max-w-6xl mx-auto">
         {/* Quick Actions Grid */}
         <div className="px-4 lg:px-8 -mt-4 lg:-mt-5">
-          <div className="grid grid-cols-3 lg:grid-cols-6 gap-3 lg:gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-3 lg:gap-4">
             {quickActions.map(action => (
               <button
                 key={action.id}

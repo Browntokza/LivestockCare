@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "cattle-1",
+    "species": "Cattle",
+    "name": "Foot and Mouth Disease (Cattle)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "cattle-2",
+    "species": "Cattle",
+    "name": "Anthrax (Cattle)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "cattle-3",
+    "species": "Cattle",
+    "name": "Tick-borne Fever (Cattle)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "cattle-4",
+    "species": "Cattle",
+    "name": "Internal Parasitosis (Cattle)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "cattle-5",
+    "species": "Cattle",
+    "name": "Respiratory Infection (Cattle)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "goats-1",
+    "species": "Goats",
+    "name": "Foot and Mouth Disease (Goats)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "goats-2",
+    "species": "Goats",
+    "name": "Anthrax (Goats)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "goats-3",
+    "species": "Goats",
+    "name": "Tick-borne Fever (Goats)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "goats-4",
+    "species": "Goats",
+    "name": "Internal Parasitosis (Goats)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "goats-5",
+    "species": "Goats",
+    "name": "Respiratory Infection (Goats)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "sheep-1",
+    "species": "Sheep",
+    "name": "Foot and Mouth Disease (Sheep)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "sheep-2",
+    "species": "Sheep",
+    "name": "Anthrax (Sheep)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "sheep-3",
+    "species": "Sheep",
+    "name": "Tick-borne Fever (Sheep)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "sheep-4",
+    "species": "Sheep",
+    "name": "Internal Parasitosis (Sheep)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "sheep-5",
+    "species": "Sheep",
+    "name": "Respiratory Infection (Sheep)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "chicken-1",
+    "species": "Chicken",
+    "name": "Foot and Mouth Disease (Chicken)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "chicken-2",
+    "species": "Chicken",
+    "name": "Anthrax (Chicken)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "chicken-3",
+    "species": "Chicken",
+    "name": "Tick-borne Fever (Chicken)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "chicken-4",
+    "species": "Chicken",
+    "name": "Internal Parasitosis (Chicken)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "chicken-5",
+    "species": "Chicken",
+    "name": "Respiratory Infection (Chicken)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "dogs-1",
+    "species": "Dogs",
+    "name": "Foot and Mouth Disease (Dogs)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "dogs-2",
+    "species": "Dogs",
+    "name": "Anthrax (Dogs)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "dogs-3",
+    "species": "Dogs",
+    "name": "Tick-borne Fever (Dogs)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "dogs-4",
+    "species": "Dogs",
+    "name": "Internal Parasitosis (Dogs)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "dogs-5",
+    "species": "Dogs",
+    "name": "Respiratory Infection (Dogs)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "donkeys-1",
+    "species": "Donkeys",
+    "name": "Foot and Mouth Disease (Donkeys)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "donkeys-2",
+    "species": "Donkeys",
+    "name": "Anthrax (Donkeys)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "donkeys-3",
+    "species": "Donkeys",
+    "name": "Tick-borne Fever (Donkeys)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "donkeys-4",
+    "species": "Donkeys",
+    "name": "Internal Parasitosis (Donkeys)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "donkeys-5",
+    "species": "Donkeys",
+    "name": "Respiratory Infection (Donkeys)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "rabbits-1",
+    "species": "Rabbits",
+    "name": "Foot and Mouth Disease (Rabbits)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "rabbits-2",
+    "species": "Rabbits",
+    "name": "Anthrax (Rabbits)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "rabbits-3",
+    "species": "Rabbits",
+    "name": "Tick-borne Fever (Rabbits)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "rabbits-4",
+    "species": "Rabbits",
+    "name": "Internal Parasitosis (Rabbits)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "rabbits-5",
+    "species": "Rabbits",
+    "name": "Respiratory Infection (Rabbits)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "guinea-fowl-1",
+    "species": "Guinea fowl",
+    "name": "Foot and Mouth Disease (Guinea fowl)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "guinea-fowl-2",
+    "species": "Guinea fowl",
+    "name": "Anthrax (Guinea fowl)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "guinea-fowl-3",
+    "species": "Guinea fowl",
+    "name": "Tick-borne Fever (Guinea fowl)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "guinea-fowl-4",
+    "species": "Guinea fowl",
+    "name": "Internal Parasitosis (Guinea fowl)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  },
+  {
+    "id": "guinea-fowl-5",
+    "species": "Guinea fowl",
+    "name": "Respiratory Infection (Guinea fowl)",
+    "local_name": "placeholder - verify",
+    "description": "Placeholder content auto-generated from import template; mark for review.",
+    "pathogen_type": "mixed",
+    "symptoms": [
+      "fever",
+      "poor appetite",
+      "weight loss"
+    ],
+    "transmission": "contact/vector/environment; verify with pamphlet source",
+    "risk_factors": [
+      "overcrowding",
+      "poor hygiene"
+    ],
+    "diagnosis_notes": "Field screening + veterinary confirmation.",
+    "treatment": "Consult vet for species-specific protocol.",
+    "prevention": "Biosecurity, vaccination, deworming schedule.",
+    "vaccination_notes": "Check local program availability.",
+    "when_to_call_vet": "If severe signs persist >24h or emergency signs appear.",
+    "emergency_warning_signs": [
+      "collapse",
+      "breathing distress",
+      "bloody discharge"
+    ],
+    "farmer_summary": "Isolate, hydrate, contact veterinary support quickly.",
+    "source_reference": "pamphlet import placeholder",
+    "status": "draft",
+    "verified": false
+  }
+]

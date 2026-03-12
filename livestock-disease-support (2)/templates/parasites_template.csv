@@ -1,0 +1,2 @@
+name,parasite_type,species_affected,severity,preventable,description,symptoms,transmission,treatment,prevention,control_recommendations,drug_notes,practical_advice
+Example parasite,internal,"Cattle;Goats",high,true,Describe,"weight loss;anemia",Contaminated grazing,Treatment details,Prevention details,Control recommendations,Cautions,Farmer advice

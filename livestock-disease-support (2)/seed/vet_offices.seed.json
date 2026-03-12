@@ -1,0 +1,122 @@
+[
+  {
+    "id": "office-1",
+    "name": "Veterinary Office 1",
+    "office_type": "Government",
+    "province": "Bulawayo",
+    "district": "Bulawayo",
+    "address": "verify before production",
+    "phone": "+263 29 000 1101",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "office-2",
+    "name": "Veterinary Office 2",
+    "office_type": "Government",
+    "province": "Bulawayo",
+    "district": "Bulawayo",
+    "address": "verify before production",
+    "phone": "+263 29 000 1102",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "office-3",
+    "name": "Veterinary Office 3",
+    "office_type": "Government",
+    "province": "Bulawayo",
+    "district": "Bulawayo",
+    "address": "verify before production",
+    "phone": "+263 29 000 1103",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "office-4",
+    "name": "Veterinary Office 4",
+    "office_type": "Government",
+    "province": "Bulawayo",
+    "district": "Bulawayo",
+    "address": "verify before production",
+    "phone": "+263 29 000 1104",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "office-5",
+    "name": "Veterinary Office 5",
+    "office_type": "Government",
+    "province": "Bulawayo",
+    "district": "Bulawayo",
+    "address": "verify before production",
+    "phone": "+263 29 000 1105",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "office-6",
+    "name": "Veterinary Office 6",
+    "office_type": "Government",
+    "province": "Matabeleland North",
+    "district": "Umguza",
+    "address": "verify before production",
+    "phone": "+263 29 000 1106",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "office-7",
+    "name": "Veterinary Office 7",
+    "office_type": "Government",
+    "province": "Matabeleland North",
+    "district": "Umguza",
+    "address": "verify before production",
+    "phone": "+263 29 000 1107",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "office-8",
+    "name": "Veterinary Office 8",
+    "office_type": "Government",
+    "province": "Matabeleland North",
+    "district": "Umguza",
+    "address": "verify before production",
+    "phone": "+263 29 000 1108",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "office-9",
+    "name": "Veterinary Office 9",
+    "office_type": "Government",
+    "province": "Matabeleland North",
+    "district": "Umguza",
+    "address": "verify before production",
+    "phone": "+263 29 000 1109",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "office-10",
+    "name": "Veterinary Office 10",
+    "office_type": "Government",
+    "province": "Matabeleland North",
+    "district": "Umguza",
+    "address": "verify before production",
+    "phone": "+263 29 000 1110",
+    "opening_hours": "Mon-Fri 08:00-16:30",
+    "verified": false,
+    "notes": "verify before production"
+  }
+]

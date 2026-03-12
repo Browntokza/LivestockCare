@@ -1,0 +1,142 @@
+[
+  {
+    "id": "doc-1",
+    "name": "Dr Placeholder 1",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1001",
+    "affiliation": "private",
+    "species_specialization": [
+      "Goats"
+    ],
+    "emergency_available": true,
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "doc-2",
+    "name": "Dr Placeholder 2",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1002",
+    "affiliation": "government",
+    "species_specialization": [
+      "Sheep"
+    ],
+    "emergency_available": false,
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "doc-3",
+    "name": "Dr Placeholder 3",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1003",
+    "affiliation": "private",
+    "species_specialization": [
+      "Chicken"
+    ],
+    "emergency_available": true,
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "doc-4",
+    "name": "Dr Placeholder 4",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1004",
+    "affiliation": "government",
+    "species_specialization": [
+      "Dogs"
+    ],
+    "emergency_available": false,
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "doc-5",
+    "name": "Dr Placeholder 5",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1005",
+    "affiliation": "private",
+    "species_specialization": [
+      "Donkeys"
+    ],
+    "emergency_available": true,
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "doc-6",
+    "name": "Dr Placeholder 6",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1006",
+    "affiliation": "government",
+    "species_specialization": [
+      "Rabbits"
+    ],
+    "emergency_available": false,
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "doc-7",
+    "name": "Dr Placeholder 7",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1007",
+    "affiliation": "private",
+    "species_specialization": [
+      "Guinea fowl"
+    ],
+    "emergency_available": true,
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "doc-8",
+    "name": "Dr Placeholder 8",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1008",
+    "affiliation": "government",
+    "species_specialization": [
+      "Cattle"
+    ],
+    "emergency_available": false,
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "doc-9",
+    "name": "Dr Placeholder 9",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1009",
+    "affiliation": "private",
+    "species_specialization": [
+      "Goats"
+    ],
+    "emergency_available": true,
+    "verified": false,
+    "notes": "verify before production"
+  },
+  {
+    "id": "doc-10",
+    "name": "Dr Placeholder 10",
+    "title": "BVSc",
+    "area": "Bulawayo",
+    "phone": "+263 77 200 1010",
+    "affiliation": "government",
+    "species_specialization": [
+      "Sheep"
+    ],
+    "emergency_available": false,
+    "verified": false,
+    "notes": "verify before production"
+  }
+]
